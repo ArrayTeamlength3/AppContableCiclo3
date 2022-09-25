@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="720a6514-3573-4be7-811e-53decc33cdc9" name="Changes" comment="se mueve graficos">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/charts.html" afterDir="false" />
+    <list default="true" id="720a6514-3573-4be7-811e-53decc33cdc9" name="Changes" comment="se mueve graficos2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664082683099</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="se mueve graficos2">
+      <created>1664082869903</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1664082869903</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,6 +207,7 @@
     <MESSAGE value="TRUCO2" />
     <MESSAGE value="TRUCO3" />
     <MESSAGE value="se mueve graficos" />
-    <option name="LAST_COMMIT_MESSAGE" value="se mueve graficos" />
+    <MESSAGE value="se mueve graficos2" />
+    <option name="LAST_COMMIT_MESSAGE" value="se mueve graficos2" />
   </component>
 </project>
