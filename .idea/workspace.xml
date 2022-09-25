@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="720a6514-3573-4be7-811e-53decc33cdc9" name="Changes" comment="addition">
+    <list default="true" id="720a6514-3573-4be7-811e-53decc33cdc9" name="Changes" comment="Development branch">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/Ciclo3/ProyectoArray/controller/ControllerFull.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Ciclo3/ProyectoArray/controller/ControllerFull.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="development" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -189,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664140212923</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Development branch">
+      <created>1664140352528</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1664140352528</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,6 +228,7 @@
     <MESSAGE value="se mueve graficos" />
     <MESSAGE value="se mueve graficos2" />
     <MESSAGE value="addition" />
-    <option name="LAST_COMMIT_MESSAGE" value="addition" />
+    <MESSAGE value="Development branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Development branch" />
   </component>
 </project>
