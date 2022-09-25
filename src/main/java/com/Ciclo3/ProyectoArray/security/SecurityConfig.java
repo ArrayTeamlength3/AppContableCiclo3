@@ -33,7 +33,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
     @Override
     protected void configure(HttpSecurity http) throws Exception {
         http.authorizeRequests()
-/*                .antMatchers("/","/VerEmpresas/**").hasRole("ADMIN")
+                .antMatchers("/","/VerEmpresas/**").hasRole("ADMIN")
                 .antMatchers("/AgregarEmpresa/**").hasRole("ADMIN")
                 .antMatchers("/GuardarEmpresa/**").hasRole("ADMIN")
                 .antMatchers("/EditarEmpresa/**").hasRole("ADMIN")
@@ -59,7 +59,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
                 .antMatchers("/Empleado/**").hasAnyRole("ADMIN","USER")
 
                 .antMatchers("/AgregarMovimiento").hasAnyRole("ADMIN","USER")
-                .antMatchers("/HomePage").hasAnyRole("ADMIN","USER")*/
+                .antMatchers("/HomePage").hasAnyRole("ADMIN","USER")
 
 
                 .and().formLogin().loginPage("/miFormulariologin").successHandler(customSuccessHandler)
@@ -70,4 +70,4 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 }
 //iniciamos configuracion de la pagina de login
 //terminamos configuracion de la pagina de login
-//terminamos configuracion del logout personalizado
+//terminamos configuracion del logout personalizadojaja
