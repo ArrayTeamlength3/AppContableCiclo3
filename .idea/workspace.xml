@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="720a6514-3573-4be7-811e-53decc33cdc9" name="Changes" comment="XML">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="720a6514-3573-4be7-811e-53decc33cdc9" name="Changes" comment="TRUCO">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/Ciclo3/ProyectoArray/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Ciclo3/ProyectoArray/security/SecurityConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664076916821</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="TRUCO">
+      <created>1664081242186</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1664081242186</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +170,7 @@
     <MESSAGE value="application-properties" />
     <MESSAGE value="HELP" />
     <MESSAGE value="XML" />
-    <option name="LAST_COMMIT_MESSAGE" value="XML" />
+    <MESSAGE value="TRUCO" />
+    <option name="LAST_COMMIT_MESSAGE" value="TRUCO" />
   </component>
 </project>
